@@ -1,0 +1,644 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E709945-F56C-4270-B471-465AE9781DAB}|CrownBeef\\CrownBeef.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\crownbeef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E709945-F56C-4270-B471-465AE9781DAB}|CrownBeef\\CrownBeef.csproj|solutionrelative:crownbeef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8DE0E8-4C67-4064-93A2-93455ABF7B99}|Dal\\Dal.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\dal\\converters\\categoryconverters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8DE0E8-4C67-4064-93A2-93455ABF7B99}|Dal\\Dal.csproj|solutionrelative:dal\\converters\\categoryconverters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8DE0E8-4C67-4064-93A2-93455ABF7B99}|Dal\\Dal.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\dal\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8DE0E8-4C67-4064-93A2-93455ABF7B99}|Dal\\Dal.csproj|solutionrelative:dal\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8DE0E8-4C67-4064-93A2-93455ABF7B99}|Dal\\Dal.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8DE0E8-4C67-4064-93A2-93455ABF7B99}|Dal\\Dal.csproj|solutionrelative:dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8DE0E8-4C67-4064-93A2-93455ABF7B99}|Dal\\Dal.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\dal\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8DE0E8-4C67-4064-93A2-93455ABF7B99}|Dal\\Dal.csproj|solutionrelative:dal\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8DE0E8-4C67-4064-93A2-93455ABF7B99}|Dal\\Dal.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\dal\\models\\crownbeefcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8DE0E8-4C67-4064-93A2-93455ABF7B99}|Dal\\Dal.csproj|solutionrelative:dal\\models\\crownbeefcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8DE0E8-4C67-4064-93A2-93455ABF7B99}|Dal\\Dal.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8DE0E8-4C67-4064-93A2-93455ABF7B99}|Dal\\Dal.csproj|solutionrelative:dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8DE0E8-4C67-4064-93A2-93455ABF7B99}|Dal\\Dal.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\dal\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8DE0E8-4C67-4064-93A2-93455ABF7B99}|Dal\\Dal.csproj|solutionrelative:dal\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8DE0E8-4C67-4064-93A2-93455ABF7B99}|Dal\\Dal.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\dal\\converters\\productconverters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8DE0E8-4C67-4064-93A2-93455ABF7B99}|Dal\\Dal.csproj|solutionrelative:dal\\converters\\productconverters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8DE0E8-4C67-4064-93A2-93455ABF7B99}|Dal\\Dal.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\dal\\converters\\customerconverters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8DE0E8-4C67-4064-93A2-93455ABF7B99}|Dal\\Dal.csproj|solutionrelative:dal\\converters\\customerconverters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5F8D8B-9AB9-4601-B6C0-B29D38711701}|Dto\\Dto.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5F8D8B-9AB9-4601-B6C0-B29D38711701}|Dto\\Dto.csproj|solutionrelative:dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5F8D8B-9AB9-4601-B6C0-B29D38711701}|Dto\\Dto.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\dto\\completepurchasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5F8D8B-9AB9-4601-B6C0-B29D38711701}|Dto\\Dto.csproj|solutionrelative:dto\\completepurchasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E709945-F56C-4270-B471-465AE9781DAB}|CrownBeef\\CrownBeef.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\crownbeef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E709945-F56C-4270-B471-465AE9781DAB}|CrownBeef\\CrownBeef.csproj|solutionrelative:crownbeef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E709945-F56C-4270-B471-465AE9781DAB}|CrownBeef\\CrownBeef.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\crownbeef\\crownbeef.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9E709945-F56C-4270-B471-465AE9781DAB}|CrownBeef\\CrownBeef.csproj|solutionrelative:crownbeef\\crownbeef.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C87421-93CD-45F8-89F4-9262D9BC5A08}|IDal\\IDal.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\idal\\idalcompletepurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C87421-93CD-45F8-89F4-9262D9BC5A08}|IDal\\IDal.csproj|solutionrelative:idal\\idalcompletepurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8DE0E8-4C67-4064-93A2-93455ABF7B99}|Dal\\Dal.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\dal\\completepurchasedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8DE0E8-4C67-4064-93A2-93455ABF7B99}|Dal\\Dal.csproj|solutionrelative:dal\\completepurchasedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C87421-93CD-45F8-89F4-9262D9BC5A08}|IDal\\IDal.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\idal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C87421-93CD-45F8-89F4-9262D9BC5A08}|IDal\\IDal.csproj|solutionrelative:idal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E709945-F56C-4270-B471-465AE9781DAB}|CrownBeef\\CrownBeef.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\crownbeef\\controllers\\completepurchasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E709945-F56C-4270-B471-465AE9781DAB}|CrownBeef\\CrownBeef.csproj|solutionrelative:crownbeef\\controllers\\completepurchasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDB8D06-0173-4155-A5D5-2CC62133AE9A}|Bll\\Bll.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\bll\\completepurchasebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDB8D06-0173-4155-A5D5-2CC62133AE9A}|Bll\\Bll.csproj|solutionrelative:bll\\completepurchasebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B05A72-C76B-4582-BE0F-79CEDF0E1E71}|IBll\\IBll.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\ibll\\ibllcompletepurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B05A72-C76B-4582-BE0F-79CEDF0E1E71}|IBll\\IBll.csproj|solutionrelative:ibll\\ibllcompletepurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B05A72-C76B-4582-BE0F-79CEDF0E1E71}|IBll\\IBll.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\ibll\\ibllservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B05A72-C76B-4582-BE0F-79CEDF0E1E71}|IBll\\IBll.csproj|solutionrelative:ibll\\ibllservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDB8D06-0173-4155-A5D5-2CC62133AE9A}|Bll\\Bll.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\bll\\customerbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDB8D06-0173-4155-A5D5-2CC62133AE9A}|Bll\\Bll.csproj|solutionrelative:bll\\customerbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDB8D06-0173-4155-A5D5-2CC62133AE9A}|Bll\\Bll.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\bll\\categorybll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDB8D06-0173-4155-A5D5-2CC62133AE9A}|Bll\\Bll.csproj|solutionrelative:bll\\categorybll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B05A72-C76B-4582-BE0F-79CEDF0E1E71}|IBll\\IBll.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\ibll\\ibllproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B05A72-C76B-4582-BE0F-79CEDF0E1E71}|IBll\\IBll.csproj|solutionrelative:ibll\\ibllproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E709945-F56C-4270-B471-465AE9781DAB}|CrownBeef\\CrownBeef.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\crownbeef\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E709945-F56C-4270-B471-465AE9781DAB}|CrownBeef\\CrownBeef.csproj|solutionrelative:crownbeef\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E709945-F56C-4270-B471-465AE9781DAB}|CrownBeef\\CrownBeef.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\crownbeef\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E709945-F56C-4270-B471-465AE9781DAB}|CrownBeef\\CrownBeef.csproj|solutionrelative:crownbeef\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDB8D06-0173-4155-A5D5-2CC62133AE9A}|Bll\\Bll.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\bll\\productbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDB8D06-0173-4155-A5D5-2CC62133AE9A}|Bll\\Bll.csproj|solutionrelative:bll\\productbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8DE0E8-4C67-4064-93A2-93455ABF7B99}|Dal\\Dal.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\dal\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8DE0E8-4C67-4064-93A2-93455ABF7B99}|Dal\\Dal.csproj|solutionrelative:dal\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5F8D8B-9AB9-4601-B6C0-B29D38711701}|Dto\\Dto.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5F8D8B-9AB9-4601-B6C0-B29D38711701}|Dto\\Dto.csproj|solutionrelative:dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8DE0E8-4C67-4064-93A2-93455ABF7B99}|Dal\\Dal.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\dal\\customerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8DE0E8-4C67-4064-93A2-93455ABF7B99}|Dal\\Dal.csproj|solutionrelative:dal\\customerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8DE0E8-4C67-4064-93A2-93455ABF7B99}|Dal\\Dal.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\dal\\models\\purchasedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8DE0E8-4C67-4064-93A2-93455ABF7B99}|Dal\\Dal.csproj|solutionrelative:dal\\models\\purchasedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5F8D8B-9AB9-4601-B6C0-B29D38711701}|Dto\\Dto.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5F8D8B-9AB9-4601-B6C0-B29D38711701}|Dto\\Dto.csproj|solutionrelative:dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B05A72-C76B-4582-BE0F-79CEDF0E1E71}|IBll\\IBll.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\ibll\\ibllcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B05A72-C76B-4582-BE0F-79CEDF0E1E71}|IBll\\IBll.csproj|solutionrelative:ibll\\ibllcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C87421-93CD-45F8-89F4-9262D9BC5A08}|IDal\\IDal.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\idal\\idalcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C87421-93CD-45F8-89F4-9262D9BC5A08}|IDal\\IDal.csproj|solutionrelative:idal\\idalcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C87421-93CD-45F8-89F4-9262D9BC5A08}|IDal\\IDal.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\idal\\idalproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C87421-93CD-45F8-89F4-9262D9BC5A08}|IDal\\IDal.csproj|solutionrelative:idal\\idalproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E709945-F56C-4270-B471-465AE9781DAB}|CrownBeef\\CrownBeef.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\crownbeef\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E709945-F56C-4270-B471-465AE9781DAB}|CrownBeef\\CrownBeef.csproj|solutionrelative:crownbeef\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8DE0E8-4C67-4064-93A2-93455ABF7B99}|Dal\\Dal.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BF8DE0E8-4C67-4064-93A2-93455ABF7B99}|Dal\\Dal.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5F8D8B-9AB9-4601-B6C0-B29D38711701}|Dto\\Dto.csproj|c:\\users\\user\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\crownbeef\\dto\\dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D5F8D8B-9AB9-4601-B6C0-B29D38711701}|Dto\\Dto.csproj|solutionrelative:dto\\dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elish\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\C#\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\CrownBeef\\models\\CrownBeefContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryConverters.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dal\\Converters\\CategoryConverters.cs",
+              "RelativeDocumentMoniker": "Dal\\Converters\\CategoryConverters.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dal\\Converters\\CategoryConverters.cs",
+              "RelativeToolTip": "Dal\\Converters\\CategoryConverters.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T14:48:49.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dto\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "Dto\\CustomerDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dto\\CustomerDto.cs",
+              "RelativeToolTip": "Dto\\CustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T16:34:18.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductConverters.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dal\\Converters\\ProductConverters.cs",
+              "RelativeDocumentMoniker": "Dal\\Converters\\ProductConverters.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dal\\Converters\\ProductConverters.cs",
+              "RelativeToolTip": "Dal\\Converters\\ProductConverters.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:51:37.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryDal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dal\\CategoryDal.cs",
+              "RelativeDocumentMoniker": "Dal\\CategoryDal.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dal\\CategoryDal.cs",
+              "RelativeToolTip": "Dal\\CategoryDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T14:40:07.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dal\\models\\Category.cs",
+              "RelativeDocumentMoniker": "Dal\\models\\Category.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dal\\models\\Category.cs",
+              "RelativeToolTip": "Dal\\models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:51:04.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CrownBeefContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dal\\models\\CrownBeefContext.cs",
+              "RelativeDocumentMoniker": "Dal\\models\\CrownBeefContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dal\\models\\CrownBeefContext.cs",
+              "RelativeToolTip": "Dal\\models\\CrownBeefContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwCMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:12:08.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dal\\models\\Customer.cs",
+              "RelativeDocumentMoniker": "Dal\\models\\Customer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dal\\models\\Customer.cs",
+              "RelativeToolTip": "Dal\\models\\Customer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:51:31.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dal\\models\\Product.cs",
+              "RelativeDocumentMoniker": "Dal\\models\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dal\\models\\Product.cs",
+              "RelativeToolTip": "Dal\\models\\Product.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:51:27.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Purchase.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dal\\models\\Purchase.cs",
+              "RelativeDocumentMoniker": "Dal\\models\\Purchase.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dal\\models\\Purchase.cs",
+              "RelativeToolTip": "Dal\\models\\Purchase.cs",
+              "ViewState": "AgIAAAcAAAAAPmFPGHX1vxIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:51:43.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\CrownBeef\\Program.cs",
+              "RelativeDocumentMoniker": "CrownBeef\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\CrownBeef\\Program.cs",
+              "RelativeToolTip": "CrownBeef\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAACIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T07:49:14.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerConverters.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dal\\Converters\\CustomerConverters.cs",
+              "RelativeDocumentMoniker": "Dal\\Converters\\CustomerConverters.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dal\\Converters\\CustomerConverters.cs",
+              "RelativeToolTip": "Dal\\Converters\\CustomerConverters.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAnwAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T18:19:17.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CrownBeef.http",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\CrownBeef\\CrownBeef.http",
+              "RelativeDocumentMoniker": "CrownBeef\\CrownBeef.http",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\CrownBeef\\CrownBeef.http",
+              "RelativeToolTip": "CrownBeef\\CrownBeef.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-28T09:18:15.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IBllCompletePurchase.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\IBll\\IBllCompletePurchase.cs",
+              "RelativeDocumentMoniker": "IBll\\IBllCompletePurchase.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\IBll\\IBllCompletePurchase.cs",
+              "RelativeToolTip": "IBll\\IBllCompletePurchase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T15:26:29.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IDal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\IDal\\IDal.cs",
+              "RelativeDocumentMoniker": "IDal\\IDal.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\IDal\\IDal.cs",
+              "RelativeToolTip": "IDal\\IDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T14:40:30.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CompletePurchaseDal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dal\\CompletePurchaseDal.cs",
+              "RelativeDocumentMoniker": "Dal\\CompletePurchaseDal.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dal\\CompletePurchaseDal.cs",
+              "RelativeToolTip": "Dal\\CompletePurchaseDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T07:11:46.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDalCompletePurchase.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\IDal\\IDalCompletePurchase.cs",
+              "RelativeDocumentMoniker": "IDal\\IDalCompletePurchase.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\IDal\\IDalCompletePurchase.cs",
+              "RelativeToolTip": "IDal\\IDalCompletePurchase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T15:19:47.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CompletePurchaseDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dto\\CompletePurchaseDto.cs",
+              "RelativeDocumentMoniker": "Dto\\CompletePurchaseDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dto\\CompletePurchaseDto.cs",
+              "RelativeToolTip": "Dto\\CompletePurchaseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T15:14:14.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CompletePurchaseBll.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Bll\\CompletePurchaseBll.cs",
+              "RelativeDocumentMoniker": "Bll\\CompletePurchaseBll.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Bll\\CompletePurchaseBll.cs",
+              "RelativeToolTip": "Bll\\CompletePurchaseBll.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwBQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T00:33:45.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\CrownBeef\\appsettings.json",
+              "RelativeDocumentMoniker": "CrownBeef\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\CrownBeef\\appsettings.json",
+              "RelativeToolTip": "CrownBeef\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-15T16:13:28.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CompletePurchaseController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\CrownBeef\\Controllers\\CompletePurchaseController.cs",
+              "RelativeDocumentMoniker": "CrownBeef\\Controllers\\CompletePurchaseController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\CrownBeef\\Controllers\\CompletePurchaseController.cs",
+              "RelativeToolTip": "CrownBeef\\Controllers\\CompletePurchaseController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T07:41:31.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IBllServices.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\IBll\\IBllServices.cs",
+              "RelativeDocumentMoniker": "IBll\\IBllServices.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\IBll\\IBllServices.cs",
+              "RelativeToolTip": "IBll\\IBllServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:07:09.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\CrownBeef\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "CrownBeef\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\CrownBeef\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "CrownBeef\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T14:33:39.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryBll.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Bll\\CategoryBll.cs",
+              "RelativeDocumentMoniker": "Bll\\CategoryBll.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Bll\\CategoryBll.cs",
+              "RelativeToolTip": "Bll\\CategoryBll.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T14:40:18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IBllProduct.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\IBll\\IBllProduct.cs",
+              "RelativeDocumentMoniker": "IBll\\IBllProduct.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\IBll\\IBllProduct.cs",
+              "RelativeToolTip": "IBll\\IBllProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:30:10.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductBll.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Bll\\ProductBll.cs",
+              "RelativeDocumentMoniker": "Bll\\ProductBll.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Bll\\ProductBll.cs",
+              "RelativeToolTip": "Bll\\ProductBll.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwBwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T14:29:14.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dal\\ProductDal.cs",
+              "RelativeDocumentMoniker": "Dal\\ProductDal.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dal\\ProductDal.cs",
+              "RelativeToolTip": "Dal\\ProductDal.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA8wBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:43:56.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\CrownBeef\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CrownBeef\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\CrownBeef\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CrownBeef\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T17:21:12.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomerBll.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Bll\\CustomerBll.cs",
+              "RelativeDocumentMoniker": "Bll\\CustomerBll.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Bll\\CustomerBll.cs",
+              "RelativeToolTip": "Bll\\CustomerBll.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T17:11:51.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dto\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Dto\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dto\\ProductDto.cs",
+              "RelativeToolTip": "Dto\\ProductDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:28:33.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CustomerDal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dal\\CustomerDal.cs",
+              "RelativeDocumentMoniker": "Dal\\CustomerDal.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dal\\CustomerDal.cs",
+              "RelativeToolTip": "Dal\\CustomerDal.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T16:56:54.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PurchaseDetail.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dal\\models\\PurchaseDetail.cs",
+              "RelativeDocumentMoniker": "Dal\\models\\PurchaseDetail.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dal\\models\\PurchaseDetail.cs",
+              "RelativeToolTip": "Dal\\models\\PurchaseDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:51:35.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dto\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "Dto\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dto\\CategoryDto.cs",
+              "RelativeToolTip": "Dto\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T14:39:54.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IDalCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\IDal\\IDalCustomer.cs",
+              "RelativeDocumentMoniker": "IDal\\IDalCustomer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\IDal\\IDalCustomer.cs",
+              "RelativeToolTip": "IDal\\IDalCustomer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:22:59.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IBllCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\IBll\\IBllCustomer.cs",
+              "RelativeDocumentMoniker": "IBll\\IBllCustomer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\IBll\\IBllCustomer.cs",
+              "RelativeToolTip": "IBll\\IBllCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T18:20:17.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IDalProduct.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\IDal\\IDalProduct.cs",
+              "RelativeDocumentMoniker": "IDal\\IDalProduct.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\IDal\\IDalProduct.cs",
+              "RelativeToolTip": "IDal\\IDalProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:23:57.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\CrownBeef\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "CrownBeef\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\CrownBeef\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "CrownBeef\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:57:53.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Dal.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dal\\Dal.csproj",
+              "RelativeDocumentMoniker": "Dal\\Dal.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dal\\Dal.csproj",
+              "RelativeToolTip": "Dal\\Dal.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-14T19:54:14.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Dto.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dto\\Dto.csproj",
+              "RelativeDocumentMoniker": "Dto\\Dto.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\Dto\\Dto.csproj",
+              "RelativeToolTip": "Dto\\Dto.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-12T18:18:25.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CrownBeefContext.cs",
+              "DocumentMoniker": "C:\\Users\\elish\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\C#\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\CrownBeef\\models\\CrownBeefContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\elish\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\C#\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\CrownBeef\\models\\CrownBeefContext.cs",
+              "ToolTip": "C:\\Users\\elish\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\C#\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\CrownBeef\\models\\CrownBeefContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\elish\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD\\C#\u002B\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8 \u05D1\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\CrownBeef\\CrownBeef\\models\\CrownBeefContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T14:47:31.419Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+<div id="app">
+    <section class="form-container">
+        <form (ngSubmit)="getSign()" #myForm="ngForm">
+            <h1>Sign Up</h1>
+
+            <fieldset>
+                <div class="name">
+                    <input type="text" placeholder="Name" #name="ngModel"
+                        [(ngModel)]="sign_up.currentCustomer.customerName" name="customerName" required minlength="3"
+                        maxlength="20" pattern="[א-ת A-Za-z]*" />
+
+                    @if(name.invalid && (name.dirty || name.touched)) {
+                    <p [hidden]="!name.errors!['required']" class="error-message">שדה חובה</p>
+                    <p [hidden]="!name.errors!['minlength']" class="error-message">ערך מינימלי לפחות 3 תווים </p>
+                    <p [hidden]="!name.errors!['maxlength']" class="error-message">ערך מקסימאלי עד 20 תווים </p>
+                    <p [hidden]="!name.errors!['pattern']" class="error-message">התווים יכולים להיות באותיות עיבריות או
+                        אנגליות בלבד!!</p>
+                    }
+                </div>
+                <div class="phone">
+                    <input type="phone" placeholder="Phone" [(ngModel)]="sign_up.currentCustomer.phone" name="phone"
+                        required minlength="9" pattern="^[0-9]{9,10}$" #phone="ngModel" />
+                    @if(phone.invalid && (phone.dirty || phone.touched)) {
+                    <p [hidden]="!phone.errors!['required']" class="error-message">שדה חובה</p>
+                    <p [hidden]="!phone.errors!['pattern']" class="error-message">מספר לא תקין</p>
+                    <p [hidden]="!phone.errors!['minlength']" class="error-message">אורך המספר קטן מידי!</p>
+                    }
+                </div>
+                <div class="email">
+                    <input type="email" placeholder="Email" [(ngModel)]="sign_up.currentCustomer.email" name="newEmail"
+                        required minlength="3" maxlength="20" pattern="^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+.[a-zA-Z]{2,}$"
+                        #email="ngModel" />
+                    @if(email.invalid && (email.dirty || email.touched)) {
+                    <p [hidden]="!email.errors!['required']" class="error-message">שדה חובה</p>
+                    <p [hidden]="!email.errors!['pattern']" class="error-message">מייל לא תקין</p>
+                    }
+                </div>
+                <div class="birthday date">
+                    <input type="text" placeholder="Birthday (date yyyy-mm-dd)"
+                        [(ngModel)]="sign_up.currentCustomer.dateOfBirth" name="date" required
+                        pattern="^\d{4}-\d{2}-\d{2}$" #date="ngModel">
+                    @if(date.invalid && (date.dirty || date.touched)) {
+                    <p [hidden]="!date.errors!['required']" class="error-message">שדה חובה</p>
+                    <p [hidden]="!date.errors!['pattern']" class="error-message">תאריך לא תקין</p>
+                    }
+                </div>
+            </fieldset>
+
+            <button type="submit" [disabled]="!myForm.valid">Sign Up</button>
+        </form>
+    </section>
+    <aside></aside>
+</div>

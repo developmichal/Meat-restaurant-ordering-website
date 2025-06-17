@@ -1,0 +1,13 @@
+<main>
+    <div class="card-container">
+        <div class="card">
+            <img [src]="picture" alt="Delicious Food">
+            <div class="card-content">
+                <h2>{{productName}}</h2>
+                <p>{{productDescription}}</p>
+                <h3>{{price}}₪</h3><br>
+                <button class="button"(click)="send()" [ngClass]="(QuantityInStock<=0)?'button-hidden':'button'">פרטים נוספים</button>
+            </div>
+        </div>
+    </div>
+</main>

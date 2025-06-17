@@ -1,0 +1,43 @@
+/* You can add global styles to this file, and also import other style files */
+@font-face {
+  font-family: 'Heebo';
+  src: url('../public/Heebo.ttf') format('truetype');
+}
+
+* {
+  background-color: black;
+  font-family: 'Heebo', sans-serif;
+}
+.swal2-x-mark{
+  background-color: rgba(255, 255, 255, 0) !important;
+}
+.swal2-icon.swal2-error.swal2-icon-show{
+  background-color: rgba(255, 255, 255, 0) !important;
+
+}
+#swal2-title{
+  background-color: rgba(255, 255, 255, 0) !important;
+
+}
+#swal2-html-container{
+  
+  background-color: rgba(255, 255, 255, 0) !important;
+}
+.swal2-actions{
+  background-color: rgba(255, 255, 255, 0) !important;
+}
+.swal2-confirm {
+  background-color: #C9AB81!important;
+  color: #000;
+}
+
+.swal2-success-ring{
+  background-color: rgba(255, 255, 255, 0) !important;
+}
+.swal2-success-circular-line-right{
+  background-color: white;
+}
+.swal2-success-circular-line-left{
+  background-color: white;
+}
+

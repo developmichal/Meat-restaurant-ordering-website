@@ -1,0 +1,10 @@
+@if(this.loading){
+<div class="container">
+    <img class="imgLogo" src="logo.png">
+</div>
+}
+@else{
+<app-nav />
+<router-outlet></router-outlet>
+<app-all-footer />
+}

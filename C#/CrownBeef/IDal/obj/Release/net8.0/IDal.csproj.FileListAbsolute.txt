@@ -1,0 +1,17 @@
+C:\Users\elish\הנדסאים\פרויקטים\C+פרויקט גמר באנגולר\CrownBeef\IDal\bin\Release\net8.0\IDal.deps.json
+C:\Users\elish\הנדסאים\פרויקטים\C+פרויקט גמר באנגולר\CrownBeef\IDal\bin\Release\net8.0\IDal.runtimeconfig.json
+C:\Users\elish\הנדסאים\פרויקטים\C+פרויקט גמר באנגולר\CrownBeef\IDal\bin\Release\net8.0\IDal.dll
+C:\Users\elish\הנדסאים\פרויקטים\C+פרויקט גמר באנגולר\CrownBeef\IDal\bin\Release\net8.0\IDal.pdb
+C:\Users\elish\הנדסאים\פרויקטים\C+פרויקט גמר באנגולר\CrownBeef\IDal\bin\Release\net8.0\Dto.dll
+C:\Users\elish\הנדסאים\פרויקטים\C+פרויקט גמר באנגולר\CrownBeef\IDal\bin\Release\net8.0\Dto.pdb
+C:\Users\elish\הנדסאים\פרויקטים\C+פרויקט גמר באנגולר\CrownBeef\IDal\obj\Release\net8.0\IDal.csproj.AssemblyReference.cache
+C:\Users\elish\הנדסאים\פרויקטים\C+פרויקט גמר באנגולר\CrownBeef\IDal\obj\Release\net8.0\IDal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elish\הנדסאים\פרויקטים\C+פרויקט גמר באנגולר\CrownBeef\IDal\obj\Release\net8.0\IDal.AssemblyInfoInputs.cache
+C:\Users\elish\הנדסאים\פרויקטים\C+פרויקט גמר באנגולר\CrownBeef\IDal\obj\Release\net8.0\IDal.AssemblyInfo.cs
+C:\Users\elish\הנדסאים\פרויקטים\C+פרויקט גמר באנגולר\CrownBeef\IDal\obj\Release\net8.0\IDal.csproj.CoreCompileInputs.cache
+C:\Users\elish\הנדסאים\פרויקטים\C+פרויקט גמר באנגולר\CrownBeef\IDal\obj\Release\net8.0\IDal.csproj.Up2Date
+C:\Users\elish\הנדסאים\פרויקטים\C+פרויקט גמר באנגולר\CrownBeef\IDal\obj\Release\net8.0\IDal.dll
+C:\Users\elish\הנדסאים\פרויקטים\C+פרויקט גמר באנגולר\CrownBeef\IDal\obj\Release\net8.0\refint\IDal.dll
+C:\Users\elish\הנדסאים\פרויקטים\C+פרויקט גמר באנגולר\CrownBeef\IDal\obj\Release\net8.0\IDal.pdb
+C:\Users\elish\הנדסאים\פרויקטים\C+פרויקט גמר באנגולר\CrownBeef\IDal\obj\Release\net8.0\IDal.genruntimeconfig.cache
+C:\Users\elish\הנדסאים\פרויקטים\C+פרויקט גמר באנגולר\CrownBeef\IDal\obj\Release\net8.0\ref\IDal.dll

@@ -1,0 +1,22 @@
+<nav class="navbar">
+    <div class="logo" (click)="home()">
+        <img src="logo.png" class="Logo">
+    </div>
+    <div class="allDivNav">
+        <div class="nav-links">
+            <a (click)="navigateToAbout()">אודותינו</a>
+            <a (click)="navigateToFooter()">צור-קשר</a>
+            <div class="dropdown">
+                <a class="drop">תפריט</a>
+                <div class="dropdown-content">
+                    <a *ngFor="let c of cs.allCategory" (click)="filtering(c.categoryCode)">{{c.categoryName}}</a>
+                </div>
+            </div>
+            <button (click)="login()">Login/Sign</button>
+            <a (click)="cart()" class="cart-icon">
+                <i class="fas fa-shopping-cart fa-5x"></i>
+                <span class="item-count">{{ this.ps.itemCount }}</span>
+            </a>
+        </div>
+    </div>
+</nav>

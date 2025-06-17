@@ -1,0 +1,33 @@
+<div id="app">
+    <section class="form-container">
+        <form (ngSubmit)="getLogin()" #myForm="ngForm">
+            <h1>Login</h1>
+            <fieldset>
+                <div class="name">
+                    <input type="text" placeholder="Name" #name="ngModel" [(ngModel)]="loginCustomer.customerName"
+                        name="customerName" required minlength="3" maxlength="20" pattern="[א-ת A-Za-z]*" />
+
+                    @if(name.invalid && (name.dirty || name.touched)) {
+                    <p [hidden]="!name.errors!['required']" class="error-message">שדה חובה</p>
+                    <p [hidden]="!name.errors!['minlength']" class="error-message">ערך מינימלי לפחות 3 תווים </p>
+                    <p [hidden]="!name.errors!['maxlength']" class="error-message">ערך מקסימאלי עד 20 תווים </p>
+                    <p [hidden]="!name.errors!['pattern']" class="error-message">התווים יכולים להיות באותיות עיבריות או
+                        אנגליות בלבד!!</p>
+                    }
+                </div>
+
+                <div class="email">
+                    <input type="email" placeholder="Email" [(ngModel)]="login.newEmail" name="newEmail" required
+                        minlength="3" maxlength="50" pattern="^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$" #email="ngModel" />
+                    @if(email.invalid && (email.dirty || email.touched)) {
+                    <p [hidden]="!email.errors!['required']" class="error-message">שדה חובה</p>
+                    <p [hidden]="!email.errors!['pattern']" class="error-message">מייל לא תקין</p>
+                    }
+                </div>
+            </fieldset>
+            <button class="button_Login" type="submit" [disabled]="!myForm.valid">Login</button>
+        </form>
+        <button class="button_sign" (click)="sign()">Sign Up</button>
+    </section>
+    <aside></aside>
+</div>

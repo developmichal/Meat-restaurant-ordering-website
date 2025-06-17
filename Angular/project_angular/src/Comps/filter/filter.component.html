@@ -1,0 +1,52 @@
+<div class="div-wraps">
+    <div class="divFilterAndSort">
+        <div class="filter-container">
+            <button class="filter-button" (click)="togglePriceFilter()">סינון לפי מחיר</button>
+        </div>
+    </div>
+    @if(showPriceFilter){
+    <div class="price-filter">
+        <button class="close-button" (click)="togglePriceFilter()">✖</button> 
+        <div class="sort">
+            <label class="labelSort">מיון לפי מחיר</label>
+            <p class="mb-0" (click)="sortToMax()">● מהנמוך לגבוה</p>
+            <p class="mb-0" (click)="sortToMin()">● מהגבוה לנמוך </p>
+        </div>
+        <div class="search">
+            <label class="label">סינון לפי מחיר</label>
+            <div class="range-slider">
+                <div class="slider-track"></div>
+                <div class="slider-range-static" [style.width.%]="100"></div>
+                <input type="range" min="{{ minPrice }}" max="{{ maxPrice }}" [(ngModel)]="selectedMinPrice"
+                    (input)="updateRange()" class="slider thumb-min" />
+                <input type="range" min="{{ minPrice }}" max="{{ maxPrice }}" [(ngModel)]="selectedMaxPrice"
+                    (input)="updateRange()" class="slider thumb-max" />
+                <div class="slider-range-selected" [style.left.%]="getSliderRangeLeft()"
+                    [style.width.%]="getSliderRangeWidth()"></div>
+                <div class="tooltip min-tooltip" [style.left.%]="minTooltipPosition">
+                    {{ selectedMinPrice }} ₪
+                </div>
+                <div class="tooltip max-tooltip" [style.left.%]="maxTooltipPosition">
+                    {{ selectedMaxPrice }} ₪
+                </div>
+            </div>
+        </div>
+    </div>
+    }
+    <div class="div">
+        @if(this.products.length>0){
+        @for(p of products; track p){
+        <app-cards [productCode]="p.productCode!" [picture]="p.picture!" [productName]="p.productName!"
+            [productDescription]="p.productDescription" [price]="p.price!" [QuantityInStock]="p.quantityInStock!"
+            [LastUpdateDate]="p.lastUpdateDate" (sendTo)="send($event)"></app-cards>
+        }
+        }
+        @else{
+        <div class="text-center">
+            <i class="fa-solid fa-magnifying-glass-minus cart"></i>
+            <h5>אין פריטים התואמים לחפוש שלך</h5>
+        </div>
+        }
+    </div>
+</div>
+<router-outlet></router-outlet>

@@ -1,0 +1,17 @@
+C:\Users\elish\הנדסאים\פרויקטים\C+פרויקט גמר באנגולר\CrownBeef\IBll\bin\Release\net8.0\IBll.deps.json
+C:\Users\elish\הנדסאים\פרויקטים\C+פרויקט גמר באנגולר\CrownBeef\IBll\bin\Release\net8.0\IBll.runtimeconfig.json
+C:\Users\elish\הנדסאים\פרויקטים\C+פרויקט גמר באנגולר\CrownBeef\IBll\bin\Release\net8.0\IBll.dll
+C:\Users\elish\הנדסאים\פרויקטים\C+פרויקט גמר באנגולר\CrownBeef\IBll\bin\Release\net8.0\IBll.pdb
+C:\Users\elish\הנדסאים\פרויקטים\C+פרויקט גמר באנגולר\CrownBeef\IBll\bin\Release\net8.0\Dto.dll
+C:\Users\elish\הנדסאים\פרויקטים\C+פרויקט גמר באנגולר\CrownBeef\IBll\bin\Release\net8.0\Dto.pdb
+C:\Users\elish\הנדסאים\פרויקטים\C+פרויקט גמר באנגולר\CrownBeef\IBll\obj\Release\net8.0\IBll.csproj.AssemblyReference.cache
+C:\Users\elish\הנדסאים\פרויקטים\C+פרויקט גמר באנגולר\CrownBeef\IBll\obj\Release\net8.0\IBll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elish\הנדסאים\פרויקטים\C+פרויקט גמר באנגולר\CrownBeef\IBll\obj\Release\net8.0\IBll.AssemblyInfoInputs.cache
+C:\Users\elish\הנדסאים\פרויקטים\C+פרויקט גמר באנגולר\CrownBeef\IBll\obj\Release\net8.0\IBll.AssemblyInfo.cs
+C:\Users\elish\הנדסאים\פרויקטים\C+פרויקט גמר באנגולר\CrownBeef\IBll\obj\Release\net8.0\IBll.csproj.CoreCompileInputs.cache
+C:\Users\elish\הנדסאים\פרויקטים\C+פרויקט גמר באנגולר\CrownBeef\IBll\obj\Release\net8.0\IBll.csproj.Up2Date
+C:\Users\elish\הנדסאים\פרויקטים\C+פרויקט גמר באנגולר\CrownBeef\IBll\obj\Release\net8.0\IBll.dll
+C:\Users\elish\הנדסאים\פרויקטים\C+פרויקט גמר באנגולר\CrownBeef\IBll\obj\Release\net8.0\refint\IBll.dll
+C:\Users\elish\הנדסאים\פרויקטים\C+פרויקט גמר באנגולר\CrownBeef\IBll\obj\Release\net8.0\IBll.pdb
+C:\Users\elish\הנדסאים\פרויקטים\C+פרויקט גמר באנגולר\CrownBeef\IBll\obj\Release\net8.0\IBll.genruntimeconfig.cache
+C:\Users\elish\הנדסאים\פרויקטים\C+פרויקט גמר באנגולר\CrownBeef\IBll\obj\Release\net8.0\ref\IBll.dll

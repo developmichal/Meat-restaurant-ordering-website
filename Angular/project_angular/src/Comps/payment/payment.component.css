@@ -1,0 +1,118 @@
+
+section {
+    margin-top: 8%;
+    background-color: #000000 !important;
+    direction: rtl;
+}
+
+.description {
+    margin-left: 2%;
+}
+
+.p-card {
+    font-size: 30px;
+    background: linear-gradient(90deg, #c9ab81, white);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.p-shooging {
+    font-size: 20px;
+
+}
+
+.p-text {
+    font-size: 18px;
+    color: white;
+}
+
+.card {
+    border: 2px solid #C9AB81;
+    border-radius: 7px;
+}
+
+h5,
+p {
+    color: #C9AB81;
+}
+
+h5 a {
+    color: #C9AB81;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+h5 a:hover {
+    color: #C9AB81;
+}
+
+.description h5 {
+    font-size: 1.2rem;
+    color: #C9AB81;
+}
+
+.description p {
+    font-size: 0.9rem;
+    color: #C9AB81;
+}
+
+.card img {
+    border: 2px solid #C9AB81;
+    border-radius: 10px;
+}
+
+.card .fas.fa-trash-alt {
+    color: #C9AB81;
+}
+
+.card .fas.fa-trash-alt:hover {
+    color: #C9AB81;
+}
+
+.card.bg-primary {
+    background-color: #C9AB81 !important;
+    color: #ffffff !important;
+    border-radius: 15px;
+}
+
+.card.bg-primary .form-control {
+    background-color: #ffffff;
+    color: #C9AB81;
+    border: 1px solid #C9AB81;
+}
+
+.card.bg-primary .form-control:focus {
+    border-color: #C9AB81;
+    box-shadow: 0 0 5px #C9AB81;
+}
+
+.card.bg-primary label {
+    color: #ffffff;
+}
+
+.card .d-flex p {
+    color: white;
+}
+
+.card .d-flex span {
+    color: #C9AB81;
+    cursor: pointer;
+}
+
+hr {
+    border-top: 1px solid #C9AB81;
+}
+
+.error-message {
+    margin: 0;
+    padding: 0;
+    color: #a9906b;
+    font-size: 12px;
+}
+
+.disabled {
+    pointer-events: none;
+    opacity: 0.5;
+}
+
+

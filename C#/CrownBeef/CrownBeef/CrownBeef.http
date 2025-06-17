@@ -1,0 +1,6 @@
+@CrownBeef_HostAddress = http://localhost:5291
+
+GET {{CrownBeef_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

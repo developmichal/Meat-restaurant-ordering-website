@@ -1,0 +1,159 @@
+<section class="h-100 h-custom">
+    <div class="container py-5 h-100">
+        <div class="card">
+            <div class="card-body p-4">
+
+                <div class="row">
+
+                    <div class="col-lg-7">
+                        <h5 class="mb-3"><a class="text-body"><i class="fas fa-long-arrow-alt-left me-2"></i>חזרה
+                                לקניות</a></h5>
+                        <hr>
+
+                        <div class="p-shooging">
+                            <div>
+                                <p class="p-text">סל הקניות</p>
+                                <p class="p-text">המוצרים שלך: </p>
+                            </div>
+                        </div>
+                        @for(p of this.prodS.shoppingCart; track p){
+                        <div class="card mb-3">
+                            <div class="card-body">
+                                <div class="d-flex justify-content-between">
+                                    <div class="d-flex flex-row align-items-center">
+                                        <div>
+                                            <img [src]="p.picture" class="img-fluid rounded-3" alt="Shopping item"
+                                                style="width: 65px;">
+                                        </div>
+                                        <div class="ms-3 description">
+                                            <h5>{{p.productName}}</h5>
+                                            <p class="small mb-0">{{p.productDescription}}</p>
+                                        </div>
+                                    </div>
+                                    <div class="d-flex flex-row align-items-center">
+                                        <div style="width: 50px;">
+                                            <h5 class="fw-normal mb-0">{{p.quantity}}</h5>
+                                        </div>
+                                        <div style="width: 80px;">
+                                            <h5 class="mb-0">{{p.price}} ₪</h5>
+                                        </div>
+                                        <a style="color: #cecece;"><i class="fas fa-trash-alt"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        }
+                    </div>
+                    <div class="col-lg-5">
+
+                        <div class="card bg-primary text-white rounded-3">
+                            <div class="card-body">
+                                <p class="p-card">הכנס בבקשה פרטי אשראי :</p>
+                                <form class="mt-4" #myForm="ngForm">
+                                    <div data-mdb-input-init class="form-outline form-white mb-4">
+                                        <input type="text" id="typeName" class="form-control form-control-lg" siez="17"
+                                            placeholder="Cardholder's Name" [(ngModel)]="this.cardholderName" required
+                                            minlength="3" maxlength="20" pattern="[א-ת A-Za-z]*" #name="ngModel"
+                                            name="name" />
+                                        <label class="form-label" for="typeName">שם בעל הכרטיס</label>
+                                        @if(name.invalid && (name.dirty || name.touched)) {
+                                        <p [hidden]="!name.errors!['required']" class="error-message">שדה חובה</p>
+                                        <p [hidden]="!name.errors!['minlength']" class="error-message">ערך מינימלי לפחות
+                                            3 תווים </p>
+                                        <p [hidden]="!name.errors!['maxlength']" class="error-message">ערך מקסימאלי עד
+                                            20 תווים </p>
+                                        <p [hidden]="!name.errors!['pattern']" class="error-message">התווים יכולים להיות
+                                            באותיות עיבריות או
+                                            אנגליות בלבד!!</p>
+                                        }
+                                    </div>
+                                    <div data-mdb-input-init class="form-outline form-white mb-4">
+                                        <input type="text" id="typeText" class="form-control form-control-lg" size="17"
+                                            placeholder="1234 5678 9012 3457" minlength="16" maxlength="16"
+                                            [ngModel]="this.cardNumber" required pattern="^\d{4}\d{4}\d{4}\d{4}$"
+                                            #creditCard="ngModel" name="creditCard" />
+                                        <label class="form-label" for="typeText">מספר כרטיס האשראי</label>
+                                        @if(creditCard.invalid && (creditCard.dirty || creditCard.touched)) {
+                                        <p [hidden]="!creditCard.errors!['required']" class="error-message">שדה חובה</p>
+                                        <p [hidden]="!creditCard.errors!['minlength']" class="error-message">ערך מינימלי
+                                            לפחות 16 תווים </p>
+                                        <p [hidden]="!creditCard.errors!['maxlength']" class="error-message">ערך
+                                            מקסימאלי עד 16 תווים </p>
+                                        <p [hidden]="!creditCard.errors!['pattern']" class="error-message"> xxxx xxxx
+                                            xxxx xxxx :הפורמט חייב להיות</p>
+                                        }
+                                    </div>
+
+                                    <div class="row mb-4">
+                                        <div class="col-md-6">
+                                            <div data-mdb-input-init class="form-outline form-white">
+                                                <input type="text" id="typeExp" class="form-control form-control-lg"
+                                                    placeholder="MM/YYYY" size="7" id="exp" minlength="7" maxlength="7"
+                                                    pattern="^(0[1-9]|1[0-2])\/[0-9]{4}$" required #expiration="ngModel"
+                                                    name="expiration" [(ngModel)]="this.expirationDate" />
+                                                <label class="form-label" for="typeExp">תוקף</label>
+                                                @if(expiration.invalid && (expiration.dirty || expiration.touched)) {
+                                                <p [hidden]="!expiration.errors!['required']" class="error-message">שדה
+                                                    חובה</p>
+                                                <p [hidden]="!expiration.errors!['minlength']" class="error-message">ערך
+                                                    מינימלי לפחות 7 תווים </p>
+                                                <p [hidden]="!expiration.errors!['maxlength']" class="error-message">ערך
+                                                    מקסימאלי עד 7 תווים </p>
+                                                <p [hidden]="!expiration.errors!['pattern']" class="error-message">
+                                                    mm/yyyy :הפורמט חייב להיות</p>
+                                                }
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div data-mdb-input-init class="form-outline form-white">
+                                                <input type="password" id="typeText"
+                                                    class="form-control form-control-lg"
+                                                    placeholder="&#9679;&#9679;&#9679;" size="1" minlength="3"
+                                                    [ngModel]="this.cvv" required maxlength="3" pattern="^\d{3}$"
+                                                    #password="ngModel" name="password" />
+                                                <label class="form-label" for="typeText">שלוש ספרות</label>
+                                                @if(password.invalid && (password.dirty || password.touched)) {
+                                                <p [hidden]="!password.errors!['required']" class="error-message">שדה
+                                                    חובה</p>
+                                                <p [hidden]="!password.errors!['minlength']" class="error-message">ערך
+                                                    מינימלי לפחות 3 תווים </p>
+                                                <p [hidden]="!password.errors!['maxlength']" class="error-message">ערך
+                                                    מקסימאלי עד 3 תווים </p>
+                                                <p [hidden]="!password.errors!['pattern']" class="error-message"> הפורמט
+                                                    מכיל 3 מספרים בלבד!</p>
+                                                }
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </form>
+                                <hr class="my-4">
+                                <div class="d-flex justify-content-between">
+                                    <p class="mb-2">סה"כ</p>
+                                    <p class="mb-2">{{this.prodS.AmountPaid}}₪</p>
+                                </div>
+                                <div class="d-flex justify-content-between">
+                                    <p class="mb-2">משלוח</p>
+                                    <p class="mb-2">20.00₪</p>
+                                </div>
+                                <div class="d-flex justify-content-between mb-4">
+                                    <p class="mb-2">סה"כ(כולל משלוח)</p>
+                                    <p class="mb-2">{{this.prodS.AmountPaid+20}}₪</p>
+                                </div>
+                                <div class="d-flex justify-content-between">
+                                    <span>{{this.prodS.AmountPaid+20}}₪</span>
+                                    <span (click)="finish()" [ngClass]="{'disabled': !myForm.valid}">לקופה <i
+                                            class="fas fa-long-arrow-alt-right ms-2"></i></span>
+                                </div>
+
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>

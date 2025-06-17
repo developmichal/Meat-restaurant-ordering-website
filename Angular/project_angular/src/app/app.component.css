@@ -1,0 +1,14 @@
+.imgLogo {
+    display: block; /* מציב את התמונה כבלוק */
+    margin-left: auto; /* ממרכז את התמונה */
+    margin-right: auto; /* ממרכז את התמונה */
+    width: 15%; /* תוכל לשנות את הרוחב לפי הצורך */
+}
+
+/* אם אתה רוצה למרכז את התמונה גם אנכית */
+.container {
+    display: flex; /* משתמש בפלקסבוקס */
+    justify-content: center; /* מרכז אופקית */
+    align-items: center; /* מרכז אנכית */
+    height: 100vh; /* גובה של 100% מהגובה של ה-viewport */
+}

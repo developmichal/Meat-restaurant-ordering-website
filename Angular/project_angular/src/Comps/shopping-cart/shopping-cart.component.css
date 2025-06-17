@@ -1,0 +1,43 @@
+*{
+    background-color: white;
+ 
+}
+section{
+    margin-top: 8%;
+}
+.delete{
+    color: rgb(0, 0, 0);
+}
+.text-center {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.text-center h5 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.text-center .btn {
+    background-color:#C9AB81 ; /* צבע רקע */
+    color: white; /* צבע טקסט */
+    padding: 10px 20px; /* ריפוד */
+    border: none; /* ללא גבול */
+    border-radius: 5px; /* פינות מעוגלות */
+    transition: background-color 0.3s; /* אנימציה לשינוי צבע */
+}
+
+.text-center .btn:hover {
+    background: linear-gradient(to right, #d9ae71 30%, #e5cfb0 100%);
+}
+.cart{
+    color: lightgray;
+    font-size: 300px;
+}
+a{
+    cursor: pointer;
+}
+input[readonly] {
+    background-color: white !important;
+}

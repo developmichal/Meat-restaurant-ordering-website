@@ -1,0 +1,59 @@
+.contact-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 8%;
+    direction: rtl;
+    height: 45rem;
+    overflow: hidden;
+
+}
+
+.text-contact {
+    align-self: flex-start;
+}
+
+.text-contact h2 {
+    font-size: 40px;
+    color: #C9AB81;
+}
+
+.text {
+    padding-top: 2%;
+}
+
+.text h3 {
+    color: #C9AB81;
+    font-size: 30px;
+}
+
+.text h4 {
+    color: #ffffff;
+    font-size: 20px;
+    font-family: 'Heebo';
+}
+
+.imgContact {
+    width: 100%;
+    height: 100%;
+    /* תמונה בגובה של הדיב */
+    object-fit: contain;
+    /* שומר על פרופורציות התמונה */
+}
+
+.img-contact {
+    /* height: 60rem; */
+    width: 100%;
+    /* הגדלת התמונה */
+    position: relative;
+    /* אפשרות להזיז את התמונה */
+    top: -15%;
+    z-index: 0;
+}
+
+.text-contact,
+.img-contact {
+    width: 50%;
+    box-sizing: border-box;
+}

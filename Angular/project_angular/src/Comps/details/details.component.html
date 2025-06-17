@@ -1,0 +1,25 @@
+<div class="modal-overlay">
+    <div class="modal-content">
+        <button class="close-button" (click)="back()">×</button>
+
+        <div class="details">
+            <div class="details-header">
+                <h1>{{ this.product.productName }}</h1>
+                <p>{{ this.product.productDescription }}</p>
+                <p><strong> מחיר:</strong> {{ this.product.price }}<i class="fas fa-dollar-sign"></i></p>
+                <p><strong> כמות במלאי:</strong> {{ this.product.quantityInStock }}<i class="fas fa-box"></i></p>
+                <p>{{ this.product.lastUpdateDate | date:'10-MMM-yyyy' }}<strong> :תאריך עדכון אחרון</strong> <i
+                        class="fas fa-edit"></i></p>
+            </div>
+            <div class="details-footer">
+                <button appChangColor (click)="add(this.product)"><i class="fa-solid fa-cart-plus"></i> הוספה
+                    לסל</button>
+            </div>
+        </div>
+
+
+        <div class="image-container">
+            <img [src]="this.product.picture" />
+        </div>
+    </div>
+</div>

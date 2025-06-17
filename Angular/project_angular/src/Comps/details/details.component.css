@@ -1,0 +1,123 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.modal-content {
+    border: 5px solid #C9AB81;
+    border-radius: 15px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
+    width: 80%;
+    max-width: 1200px;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    position: relative;
+    color: #000;
+}
+
+.image-container {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.image-container img {
+    width: 100%;
+    height: auto;
+    max-height: 400px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.details {
+    flex: 1;
+    margin-right: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.details-header h1 {
+    text-align: right;
+    font-size: 32px;
+    margin-bottom: 20px;
+    background: linear-gradient(90deg, black, #c9ab81); 
+    background-clip: text; 
+    -webkit-text-fill-color: transparent; 
+}
+
+.details-header p {
+    font-size: 18px;
+    color: #000;
+    margin-bottom: 10px;
+    text-align: right;
+}
+
+.details-footer {
+    margin-top: 20px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.details-footer button {
+    color: #000;
+    border: none;
+    padding: 16px 40px;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.close-button {
+    position: absolute;
+    top: 15px;
+    color: #000;
+    border: none;
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    font-size: 50px;
+    font-weight: bold;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+}
+
+.close-button:hover {
+    color: #C9AB81;
+}
+
+p i{
+    color: #C9AB81;
+    font-size: 30px;
+    padding: 5px 10px;
+}
+
+.details-footer i {
+    font-family: 'FontAwesome' !important;
+    color: #000;
+    font-size: 20px;
+    padding: 5px 10px;
+    background: none;
+}
+

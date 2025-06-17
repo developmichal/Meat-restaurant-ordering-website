@@ -1,0 +1,229 @@
+.div-wraps {
+    margin-top: 10%;
+}
+
+.div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width:100%;
+}
+
+.divFilterAndSort {
+    display: flex;
+    justify-content: space-between; /* מפזר את האלמנטים בשורה */
+    align-items: center; /* מרכז את האלמנטים אנכית */
+    padding: 10px; /* הוסף ריווח פנימי אם צריך */
+}
+
+
+.sort{
+    direction: rtl;
+    width: 90%;
+    margin-left:5%;
+    margin-top: 12%;
+    border-radius: 8%;
+    border: #C9AB81 1px solid;
+}
+.sort p{
+    color: #ffffff;
+    margin-right: 20%;
+    cursor: pointer;
+    background-color: #79797900;
+
+}
+.sort p:hover{
+    color: #C9AB81;
+}
+.labelSort{
+    background-color: #79797900;
+    margin-right: 5%;
+    font-size: 20px;
+    color: #C9AB81;
+    margin-top: 250px !important;
+}
+.filter-container {
+    justify-content: start;
+    margin-left: 10%;
+}
+
+.filter-button {
+    background-color: #C9AB81;
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 25px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(255, 255, 255, 0.1);
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+.filter-button:hover {
+    background: linear-gradient(to right, #d9ae71 30%, #e5cfb0 100%);
+    transform: scale(1.05);
+}
+.price-filter {
+    position: absolute; 
+    top: 28%; 
+    left: 4%;
+    z-index: 3; 
+    width: 19%; 
+    height: 20rem; 
+    border: #ffffff 1px solid;
+
+}
+.search{
+    width: 90%;
+    margin-left:5%;
+    margin-top: 5%;
+    border-radius: 8%;
+    border: #C9AB81 1px solid;
+    height: 40%;
+}
+.range-slider {
+    position: absolute;
+    width: 85%;
+    background-color: #8487843a;
+    height: 40px;
+    border-radius: 20px;
+    left: 6%;
+    margin-top: 10%;
+}
+
+
+.slider {
+    position: absolute;
+    -webkit-appearance: none;
+    appearance: none;
+    width: 100%;
+    height: 5px;
+    background: transparent;
+    z-index: 2;
+    pointer-events: none;
+}
+
+.slider::-webkit-slider-thumb {
+    pointer-events: all;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 0;
+    cursor: pointer;
+    position: relative;
+    z-index: 3;
+    top: 14px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+.slider-track {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: #ffffff;
+    /* צבע הפס זהב */
+    z-index: 1;
+    height: 5px;
+    border-radius: 5px;
+}
+
+.tooltip {
+    position: absolute;
+    top: -25px;
+    background-color:#C9AB81;
+    /* צבע הטול טיפ זהב */
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 12px;
+    white-space: nowrap;
+    transform: translateX(-50%);
+    pointer-events: none;
+    z-index: 4;
+}
+
+.min-tooltip,
+.max-tooltip {
+    transition: left 0.1s;
+}
+
+.label {
+    margin-left: 52%;
+    font-size: 20px;
+    color: #C9AB81;
+}
+
+.slider-range-static {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: #53524f;
+    /* צבע קבוע */
+    height: 5px;
+    border-radius: 5px;
+    width: 100%;
+    /* ודא שהטווח הקבוע תופס את כל הרוחב */
+    z-index: 0;
+    /* מתחת לטווח שנבחר */
+}
+
+.slider-range-selected {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: #ffffff;
+    /* צבע שנבחר */
+    height: 5px;
+    border-radius: 5px;
+    z-index: 1;
+    /* מעל לטווח הקבוע */
+}
+.but{
+    background-color: #000000;
+    /* צבע הכפתור */
+    color: rgb(255, 255, 255);
+    /* צבע הטקסט */
+    border: none;
+    border-radius: 25px;
+    /* הופך את הקצוות למעוגלים */
+    padding: 10px 20px;
+    /* ריווח פנימי */
+    font-size: 16px;
+    /* גודל הטקסט */
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(255, 255, 255, 0.1);
+    /* הצללה */
+    transition: background-color 0.3s, transform 0.2s;
+    /* אנימציה נחמדה */
+    margin-top: 300%;
+    width: 90%;
+    margin-left: 5%;
+}
+.but:hover{
+    transform: scale(1.05);
+    color: #C9AB81;
+}
+p{
+    color: white;
+}
+h5{
+    color: #C9AB81;
+    font-size: 25px;
+}
+.cart{
+    color: rgb(175, 170, 170);
+    font-size: 250px;
+}
+.text-body{
+    cursor: pointer;
+}
+.close-button {
+    position: absolute; 
+    top: 10px;
+    right: 10px; 
+    background: none; 
+    border: none; 
+    color: #C9AB81;
+    font-size: 20px;
+    cursor: pointer; 
+}
