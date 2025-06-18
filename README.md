@@ -1,4 +1,4 @@
-# 🍖 Meat Restaurant Ordering Website
+# Meat Restaurant Ordering Website
 
 An online ordering system for a meat restaurant – full-stack project including client and server sides.
 
